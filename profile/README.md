@@ -2,7 +2,7 @@
 
 <h2 align="center">We are Nubilum Development team</h1>
 
-- 🔭 We currently working on [minecraft plugins](CloudCraft server)
+- 🔭 We currently working on minecraft plugins and CloudCraft server
 
 - 🌱 We currently learning **Golang and Java Spring**
 
