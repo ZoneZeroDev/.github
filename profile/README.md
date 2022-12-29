@@ -2,11 +2,11 @@
 
 <h2 align="center">We are Nubilum Development team</h1>
 
-- 🔭 We currently working on minecraft plugins and CloudCraft server
+- 🔭 We currently working on minecraft plugins
 
-- 🌱 We currently learning **Golang and Java Spring**
+- 🌱 We currently learning **TailwindCSS and Java Spring**
 
-- 💬 Ask us about **vue, node, react, nuxt and java**
+- 💬 Ask us about **java, kotlin, node, nuxt, vue and react**
 
 - 📫 Reach us **nubilum@kiinse.me**
 
