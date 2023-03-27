@@ -1,6 +1,6 @@
 # **<div align="center"><👋Hello, World!></div>**  
 
-<h2 align="center">We are Nubilum Development team</h1>
+<h2 align="center">We are ZoneZero Development team</h1>
 
 - 🔭 We currently working on minecraft plugins
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask us about **java, kotlin, node, nuxt, vue and react**
 
-- 📫 Reach us **nubilum@kiinse.me**
+- 📫 Reach us **zonezero@zonezero.dev**
 
 <p align="left">
 </p>
